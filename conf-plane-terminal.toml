@@ -1,0 +1,73 @@
+[buildPlans.plane-terminal]
+family = "PlaneTerminal"
+spacing = "fontconfig-mono"
+serifs = "sans"
+no-cv-ss = true
+export-glyph-names = false
+
+[buildPlans.plane-terminal.variants.design]
+capital-a = "curly-serifless"
+capital-k = "straight-serifless"
+capital-w = "straight-vertical-sides"
+capital-x = "curly-serifless"
+capital-y = "curly-serifless"
+capital-z = "straight-serifed"
+a = "single-storey-tailed"
+e = "rounded"
+h = "tailed"
+k = "straight-bottom-right-serifed"
+m = "earless-corner-double-arch-tailed"
+n = "earless-rounded-tailed"
+w = "straight-vertical-sides"
+x = "curly-serifless"
+y = "cursive"
+z = "straight-serifed"
+four = "open-non-crossing"
+seven = "bend-serifless"
+asterisk = "turn-hex-low"
+caret = "high"
+brace = "straight"
+dollar = "open-cap"
+percent = "rings-continuous-slash"
+lig-ltgteq = "slanted"
+
+[buildPlans.plane-terminal.variants.italic]
+capital-z = "cursive"
+g = "single-storey-serifed"
+k = "cursive-serifless"
+q = "diagonal-tailed"
+t = "standard-short-neck2"
+x = "curly-serifless"
+z = "cursive"
+
+[buildPlans.plane-terminal.variants.oblique]
+capital-z = "cursive"
+g = "single-storey-serifed"
+k = "cursive-top-left-serifed"
+q = "diagonal-tailed"
+t = "standard-short-neck2"
+x = "curly-serifless"
+z = "cursive"
+
+  [buildPlans.plane-terminal.ligations]
+  inherits = "javascript"
+
+[buildPlans.plane-terminal.weights.light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.plane-terminal.weights.regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.plane-terminal.weights.bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.plane-terminal.widths.normal]
+shape = 600
+menu = 5
+css = "normal"

@@ -1,0 +1,23 @@
+{
+  "name": "plane-fonts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "icons": "fantasticon ./src/icons/img -p plane -t ttf -o ./src/icons/font"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfpaisa/plane-fonts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfpaisa/plane-fonts/issues"
+  },
+  "homepage": "https://github.com/wfpaisa/plane-fonts#readme",
+  "dependencies": {
+    "fantasticon": "^1.2.3"
+  }
+}
