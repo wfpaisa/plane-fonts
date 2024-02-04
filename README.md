@@ -32,7 +32,7 @@ $ cd .. && cp ./Iosevka/dist to ./dist/Plane
 # 1. Clone NerdFont
 $ git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
 
-# 2. Patches the font
+# 2. Patches the font, edit this file for change what fonts to path
 $ sh render
 
 # ---> Get all fonts in ./dist
