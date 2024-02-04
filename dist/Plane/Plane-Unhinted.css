@@ -1,0 +1,630 @@
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Thin.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Thin.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedThin.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedThin.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ThinOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-ThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ThinOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedThinOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedThinOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedThinOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ThinItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ThinItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 100;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedThinItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedThinItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtraLight.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraLight.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraLight.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraLight.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraLightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-ExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraLightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraLightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraLightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtraLightItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraLightItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 200;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraLightItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraLightItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Light.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Light.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedLight.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedLight.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-LightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-LightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-LightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-LightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedLightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedLightOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedLightOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-LightItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-LightItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedLightItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedLightItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Regular.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Regular.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Extended.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Extended.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-Oblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Oblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-Oblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Oblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-Italic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Italic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Medium.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Medium.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedMedium.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedMedium.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-MediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-MediumOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-MediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-MediumOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedMediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedMediumOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedMediumOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedMediumOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-MediumItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-MediumItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedMediumItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedMediumItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-SemiBold.WOFF2') format('woff2'), url('TTF-unhinted/Plane-SemiBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedSemiBold.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedSemiBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-SemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-SemiBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-SemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-SemiBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedSemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedSemiBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedSemiBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedSemiBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-SemiBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-SemiBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedSemiBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedSemiBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Bold.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Bold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedBold.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-BoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-BoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-BoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-BoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-BoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-BoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtraBold.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraBold.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraBold.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-ExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraBoldOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraBoldOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtraBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtraBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 800;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedExtraBoldItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedExtraBoldItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-Heavy.WOFF2') format('woff2'), url('TTF-unhinted/Plane-Heavy.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	font-style: normal;
+	src: url('WOFF2-unhinted/Plane-ExtendedHeavy.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedHeavy.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-HeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-HeavyOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	src: url('WOFF2-unhinted/Plane-HeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-HeavyOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	font-style: oblique;
+	src: url('WOFF2-unhinted/Plane-ExtendedHeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedHeavyOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web Oblique';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	src: url('WOFF2-unhinted/Plane-ExtendedHeavyOblique.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedHeavyOblique.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-HeavyItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-HeavyItalic.TTF') format('truetype');
+}
+
+@font-face {
+	font-family: 'Plane Web';
+	font-display: swap;
+	font-weight: 900;
+	font-stretch: expanded;
+	font-style: italic;
+	src: url('WOFF2-unhinted/Plane-ExtendedHeavyItalic.WOFF2') format('woff2'), url('TTF-unhinted/Plane-ExtendedHeavyItalic.TTF') format('truetype');
+}

@@ -1,0 +1,22 @@
+#!/bin/sh
+
+# Name lists
+file_list=(
+  "Plane-Light"
+  "Plane-LightItalic"
+  "Plane-Regular"
+  "Plane-Italic"
+  "Plane-Medium"
+  "Plane-MediumItalic"
+  "Plane-Bold"
+  "Plane-BoldItalic"
+)
+
+for file in "${file_list[@]}"; do
+  # Replace name
+  new_file=$(echo "$file" | sed 's/Plane/PlaneNd/')
+
+  # Add Nerd Font gliphs 
+  ./nerd-fonts/font-patcher ./dist/Plane/TTF/"$file".ttf -out ./dist/PlaneNd --name "$new_file" --complete
+  
+done

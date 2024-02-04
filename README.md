@@ -1,28 +1,40 @@
-# plane-fonts
+# Plane fonts
 
+All fonts is in /dist
+
+- ./dist/Plane -> all family font
+- ./dist/PlaneNd -> All NerdFont
+
+## Install
 
 Install: `ttfautohint` aur
+Install: `FontForge`
 
 ```bash
-$ cp conf-plane.toml Iosevka/private-build-plans.toml
+# 1. Clone Iosevka
 $ git clone --depth 1 https://github.com/be5invis/Iosevka.git
-$ cd Iosevka
-$ npm run build -- contents::plane
-# copy Iosevka/dist to ./dist/plane
 
-# repet the process with
-$ cp conf-plane-terminal.toml Iosevka/private-build-plans.toml
+# 2. Customizer Iosevka
+$ cp conf-plane.toml Iosevka/private-build-plans.toml
 
-# ------
+# 3. Install dependecies
+$ $ cd Iosevka && npm i
 
+# 4. Make de font
+$ npm run build -- contents::Plane
+
+# Prepare font
+$ cd .. && cp ./Iosevka/dist to ./dist/Plane
+
+
+# ------ Nerd fonts ------
+
+# 1. Clone NerdFont
 $ git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
-$ cd nerd-fonts
 
-# add nerd-font to light and bold
-# create the folders `./patched-fonts/plane/` and `./patched-fonts/plane-nerd`
-$ ./font-patcher ./patched-fonts/plane/plane-terminal-light.ttf -out ./patched-fonts/plane-nerd --fontawesome --fontawesomeextension --fontlinux --octicons --powersymbols --powerline --powerlineextra --material
+# 2. Patches the font
+$ sh render
 
-# copy `./patched-fonts/plane-nerd` to ./dist/plane-terminal_nerd
+# ---> Get all fonts in ./dist
+
 ```
-
-

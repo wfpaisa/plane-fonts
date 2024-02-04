@@ -1,58 +1,43 @@
-[buildPlans.plane]
+[buildPlans.Plane]
+exportGlyphNames = true
 family = "Plane"
-spacing = "fontconfig-mono"
+noCvSs = true
 serifs = "sans"
-no-cv-ss = true
-export-glyph-names = false
+spacing = "normal"
 
-[buildPlans.plane.variants.design]
+[buildPlans.Plane.variants.design]
+a = "single-storey-tailed"
+ampersand = "upper-open"
+asterisk = "turn-hex-low"
 capital-a = "curly-serifless"
 capital-k = "straight-serifless"
-capital-w = "straight-vertical-sides"
+capital-p = "open-serifless"
+capital-r = "standing-open-serifless"
+capital-v = "curly-serifless"
+capital-w = "straight-vertical-sides-serifless"
 capital-x = "curly-serifless"
 capital-y = "curly-serifless"
-capital-z = "straight-serifed"
-a = "single-storey-tailed"
+capital-z = "cursive"
+dollar = "open"
 e = "rounded"
-h = "tailed"
-k = "straight-bottom-right-serifed"
-m = "earless-corner-double-arch-tailed"
-n = "earless-rounded-tailed"
-w = "straight-vertical-sides"
-x = "curly-serifless"
-y = "cursive"
-z = "straight-serifed"
-four = "open-non-crossing"
-seven = "bend-serifless"
-asterisk = "turn-hex-low"
-caret = "high"
-brace = "straight"
-dollar = "open-cap"
-percent = "rings-continuous-slash"
+eight = "two-circles"
+four = "open"
+g = "single-storey-serifed"
+h = "tailed-serifless"
+lig-equal-chain = "without-notch"
+lig-hyphen-chain = "without-notch"
 lig-ltgteq = "slanted"
-
-[buildPlans.plane.variants.italic]
-capital-z = "cursive"
-g = "single-storey-serifed"
-k = "cursive-serifless"
-q = "diagonal-tailed"
-t = "standard-short-neck2"
+m = "earless-rounded-double-arch-short-leg-tailed-serifless"
+n = "earless-rounded-tailed-serifless"
+nine = "closed-contour"
+p = "earless-corner-serifless"
+paren = "flat-arc"
+percent = "rings-continuous-slash"
+seven = "bend-serifed"
+six = "closed-contour"
 x = "curly-serifless"
-z = "cursive"
+y = "cursive-serifless"
+z = "straight-serifed"
 
-[buildPlans.plane.variants.oblique]
-capital-z = "cursive"
-g = "single-storey-serifed"
-k = "cursive-top-left-serifed"
-q = "diagonal-tailed"
-t = "standard-short-neck2"
-x = "curly-serifless"
-z = "cursive"
-
-  [buildPlans.plane.ligations]
-  inherits = "javascript"
-
-[buildPlans.plane.widths.normal]
-shape = 600
-menu = 5
-css = "normal"
+[buildPlans.Plane.ligations]
+inherits = "dlig"
