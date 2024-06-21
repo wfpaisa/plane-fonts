@@ -13,6 +13,7 @@ Install: `FontForge`
 ```bash
 # 1. Clone Iosevka
 $ git clone --depth 1 https://github.com/be5invis/Iosevka.git
+# after clone for update.. `git fetch --depth=1`, `git pull --rebase`
 
 # 2. Customizer Iosevka
 $ cp conf-plane.toml Iosevka/private-build-plans.toml
@@ -31,6 +32,7 @@ $ cd .. && cp ./Iosevka/dist to ./dist/Plane
 
 # 1. Clone NerdFont
 $ git clone --depth 1 https://github.com/ryanoasis/nerd-fonts.git
+# after clone for update.. `git fetch --depth=1`, `git pull --rebase`
 
 # 2. Patches the font, edit this file for change what fonts to path
 $ sh render

@@ -5,7 +5,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-Thin.WOFF2') format('woff2'), url('TTF/Plane-Thin.TTF') format('truetype');
+	src: url('WOFF2/Plane-Thin.woff2') format('woff2'), url('TTF/Plane-Thin.ttf') format('truetype');
 }
 
 @font-face {
@@ -14,7 +14,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedThin.WOFF2') format('woff2'), url('TTF/Plane-ExtendedThin.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedThin.woff2') format('woff2'), url('TTF/Plane-ExtendedThin.ttf') format('truetype');
 }
 
 @font-face {
@@ -23,7 +23,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ThinOblique.WOFF2') format('woff2'), url('TTF/Plane-ThinOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ThinOblique.woff2') format('woff2'), url('TTF/Plane-ThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -31,7 +31,7 @@
 	font-display: swap;
 	font-weight: 100;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-ThinOblique.WOFF2') format('woff2'), url('TTF/Plane-ThinOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ThinOblique.woff2') format('woff2'), url('TTF/Plane-ThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -40,7 +40,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedThinOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedThinOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedThinOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -48,7 +48,7 @@
 	font-display: swap;
 	font-weight: 100;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedThinOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedThinOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedThinOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedThinOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -57,7 +57,7 @@
 	font-weight: 100;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-ThinItalic.WOFF2') format('woff2'), url('TTF/Plane-ThinItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ThinItalic.woff2') format('woff2'), url('TTF/Plane-ThinItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -66,7 +66,7 @@
 	font-weight: 100;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedThinItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedThinItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedThinItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedThinItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -75,7 +75,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtraLight.WOFF2') format('woff2'), url('TTF/Plane-ExtraLight.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraLight.woff2') format('woff2'), url('TTF/Plane-ExtraLight.ttf') format('truetype');
 }
 
 @font-face {
@@ -84,7 +84,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedExtraLight.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraLight.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraLight.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraLight.ttf') format('truetype');
 }
 
 @font-face {
@@ -93,7 +93,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtraLightOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraLightOblique.woff2') format('woff2'), url('TTF/Plane-ExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -101,7 +101,7 @@
 	font-display: swap;
 	font-weight: 200;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-ExtraLightOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraLightOblique.woff2') format('woff2'), url('TTF/Plane-ExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -110,7 +110,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedExtraLightOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraLightOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -118,7 +118,7 @@
 	font-display: swap;
 	font-weight: 200;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedExtraLightOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraLightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraLightOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -127,7 +127,7 @@
 	font-weight: 200;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtraLightItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtraLightItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraLightItalic.woff2') format('woff2'), url('TTF/Plane-ExtraLightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -136,7 +136,7 @@
 	font-weight: 200;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedExtraLightItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraLightItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraLightItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraLightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -145,7 +145,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-Light.WOFF2') format('woff2'), url('TTF/Plane-Light.TTF') format('truetype');
+	src: url('WOFF2/Plane-Light.woff2') format('woff2'), url('TTF/Plane-Light.ttf') format('truetype');
 }
 
 @font-face {
@@ -154,7 +154,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedLight.WOFF2') format('woff2'), url('TTF/Plane-ExtendedLight.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedLight.woff2') format('woff2'), url('TTF/Plane-ExtendedLight.ttf') format('truetype');
 }
 
 @font-face {
@@ -163,7 +163,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-LightOblique.WOFF2') format('woff2'), url('TTF/Plane-LightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-LightOblique.woff2') format('woff2'), url('TTF/Plane-LightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -171,7 +171,7 @@
 	font-display: swap;
 	font-weight: 300;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-LightOblique.WOFF2') format('woff2'), url('TTF/Plane-LightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-LightOblique.woff2') format('woff2'), url('TTF/Plane-LightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -180,7 +180,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedLightOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedLightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedLightOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -188,7 +188,7 @@
 	font-display: swap;
 	font-weight: 300;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedLightOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedLightOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedLightOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedLightOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -197,7 +197,7 @@
 	font-weight: 300;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-LightItalic.WOFF2') format('woff2'), url('TTF/Plane-LightItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-LightItalic.woff2') format('woff2'), url('TTF/Plane-LightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -206,7 +206,7 @@
 	font-weight: 300;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedLightItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedLightItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedLightItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedLightItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -215,7 +215,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-Regular.WOFF2') format('woff2'), url('TTF/Plane-Regular.TTF') format('truetype');
+	src: url('WOFF2/Plane-Regular.woff2') format('woff2'), url('TTF/Plane-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -224,7 +224,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-Extended.WOFF2') format('woff2'), url('TTF/Plane-Extended.TTF') format('truetype');
+	src: url('WOFF2/Plane-Extended.woff2') format('woff2'), url('TTF/Plane-Extended.ttf') format('truetype');
 }
 
 @font-face {
@@ -233,7 +233,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-Oblique.WOFF2') format('woff2'), url('TTF/Plane-Oblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-Oblique.woff2') format('woff2'), url('TTF/Plane-Oblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -241,7 +241,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-Oblique.WOFF2') format('woff2'), url('TTF/Plane-Oblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-Oblique.woff2') format('woff2'), url('TTF/Plane-Oblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -250,7 +250,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -258,7 +258,7 @@
 	font-display: swap;
 	font-weight: 400;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -267,7 +267,7 @@
 	font-weight: 400;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-Italic.WOFF2') format('woff2'), url('TTF/Plane-Italic.TTF') format('truetype');
+	src: url('WOFF2/Plane-Italic.woff2') format('woff2'), url('TTF/Plane-Italic.ttf') format('truetype');
 }
 
 @font-face {
@@ -276,7 +276,7 @@
 	font-weight: 400;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -285,7 +285,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-Medium.WOFF2') format('woff2'), url('TTF/Plane-Medium.TTF') format('truetype');
+	src: url('WOFF2/Plane-Medium.woff2') format('woff2'), url('TTF/Plane-Medium.ttf') format('truetype');
 }
 
 @font-face {
@@ -294,7 +294,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedMedium.WOFF2') format('woff2'), url('TTF/Plane-ExtendedMedium.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedMedium.woff2') format('woff2'), url('TTF/Plane-ExtendedMedium.ttf') format('truetype');
 }
 
 @font-face {
@@ -303,7 +303,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-MediumOblique.WOFF2') format('woff2'), url('TTF/Plane-MediumOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-MediumOblique.woff2') format('woff2'), url('TTF/Plane-MediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -311,7 +311,7 @@
 	font-display: swap;
 	font-weight: 500;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-MediumOblique.WOFF2') format('woff2'), url('TTF/Plane-MediumOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-MediumOblique.woff2') format('woff2'), url('TTF/Plane-MediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -320,7 +320,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedMediumOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedMediumOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedMediumOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedMediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -328,7 +328,7 @@
 	font-display: swap;
 	font-weight: 500;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedMediumOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedMediumOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedMediumOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedMediumOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -337,7 +337,7 @@
 	font-weight: 500;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-MediumItalic.WOFF2') format('woff2'), url('TTF/Plane-MediumItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-MediumItalic.woff2') format('woff2'), url('TTF/Plane-MediumItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -346,7 +346,7 @@
 	font-weight: 500;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedMediumItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedMediumItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedMediumItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedMediumItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -355,7 +355,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-SemiBold.WOFF2') format('woff2'), url('TTF/Plane-SemiBold.TTF') format('truetype');
+	src: url('WOFF2/Plane-SemiBold.woff2') format('woff2'), url('TTF/Plane-SemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -364,7 +364,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedSemiBold.WOFF2') format('woff2'), url('TTF/Plane-ExtendedSemiBold.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedSemiBold.woff2') format('woff2'), url('TTF/Plane-ExtendedSemiBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -373,7 +373,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-SemiBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-SemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-SemiBoldOblique.woff2') format('woff2'), url('TTF/Plane-SemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -381,7 +381,7 @@
 	font-display: swap;
 	font-weight: 600;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-SemiBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-SemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-SemiBoldOblique.woff2') format('woff2'), url('TTF/Plane-SemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -390,7 +390,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedSemiBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedSemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedSemiBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedSemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -398,7 +398,7 @@
 	font-display: swap;
 	font-weight: 600;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedSemiBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedSemiBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedSemiBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedSemiBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -407,7 +407,7 @@
 	font-weight: 600;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-SemiBoldItalic.WOFF2') format('woff2'), url('TTF/Plane-SemiBoldItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-SemiBoldItalic.woff2') format('woff2'), url('TTF/Plane-SemiBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -416,7 +416,7 @@
 	font-weight: 600;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedSemiBoldItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedSemiBoldItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedSemiBoldItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedSemiBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -425,7 +425,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-Bold.WOFF2') format('woff2'), url('TTF/Plane-Bold.TTF') format('truetype');
+	src: url('WOFF2/Plane-Bold.woff2') format('woff2'), url('TTF/Plane-Bold.ttf') format('truetype');
 }
 
 @font-face {
@@ -434,7 +434,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedBold.WOFF2') format('woff2'), url('TTF/Plane-ExtendedBold.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedBold.woff2') format('woff2'), url('TTF/Plane-ExtendedBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -443,7 +443,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-BoldOblique.WOFF2') format('woff2'), url('TTF/Plane-BoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-BoldOblique.woff2') format('woff2'), url('TTF/Plane-BoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -451,7 +451,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-BoldOblique.WOFF2') format('woff2'), url('TTF/Plane-BoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-BoldOblique.woff2') format('woff2'), url('TTF/Plane-BoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -460,7 +460,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -468,7 +468,7 @@
 	font-display: swap;
 	font-weight: 700;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -477,7 +477,7 @@
 	font-weight: 700;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-BoldItalic.WOFF2') format('woff2'), url('TTF/Plane-BoldItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-BoldItalic.woff2') format('woff2'), url('TTF/Plane-BoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -486,7 +486,7 @@
 	font-weight: 700;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedBoldItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedBoldItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedBoldItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -495,7 +495,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtraBold.WOFF2') format('woff2'), url('TTF/Plane-ExtraBold.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraBold.woff2') format('woff2'), url('TTF/Plane-ExtraBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -504,7 +504,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedExtraBold.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraBold.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraBold.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraBold.ttf') format('truetype');
 }
 
 @font-face {
@@ -513,7 +513,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtraBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -521,7 +521,7 @@
 	font-display: swap;
 	font-weight: 800;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-ExtraBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -530,7 +530,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedExtraBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -538,7 +538,7 @@
 	font-display: swap;
 	font-weight: 800;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedExtraBoldOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraBoldOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraBoldOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraBoldOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -547,7 +547,7 @@
 	font-weight: 800;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtraBoldItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtraBoldItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtraBoldItalic.woff2') format('woff2'), url('TTF/Plane-ExtraBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -556,7 +556,7 @@
 	font-weight: 800;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedExtraBoldItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedExtraBoldItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedExtraBoldItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedExtraBoldItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -565,7 +565,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: normal;
-	src: url('WOFF2/Plane-Heavy.WOFF2') format('woff2'), url('TTF/Plane-Heavy.TTF') format('truetype');
+	src: url('WOFF2/Plane-Heavy.woff2') format('woff2'), url('TTF/Plane-Heavy.ttf') format('truetype');
 }
 
 @font-face {
@@ -574,7 +574,7 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: normal;
-	src: url('WOFF2/Plane-ExtendedHeavy.WOFF2') format('woff2'), url('TTF/Plane-ExtendedHeavy.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedHeavy.woff2') format('woff2'), url('TTF/Plane-ExtendedHeavy.ttf') format('truetype');
 }
 
 @font-face {
@@ -583,7 +583,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: oblique;
-	src: url('WOFF2/Plane-HeavyOblique.WOFF2') format('woff2'), url('TTF/Plane-HeavyOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-HeavyOblique.woff2') format('woff2'), url('TTF/Plane-HeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -591,7 +591,7 @@
 	font-display: swap;
 	font-weight: 900;
 	font-stretch: normal;
-	src: url('WOFF2/Plane-HeavyOblique.WOFF2') format('woff2'), url('TTF/Plane-HeavyOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-HeavyOblique.woff2') format('woff2'), url('TTF/Plane-HeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -600,7 +600,7 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: oblique;
-	src: url('WOFF2/Plane-ExtendedHeavyOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedHeavyOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedHeavyOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedHeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -608,7 +608,7 @@
 	font-display: swap;
 	font-weight: 900;
 	font-stretch: expanded;
-	src: url('WOFF2/Plane-ExtendedHeavyOblique.WOFF2') format('woff2'), url('TTF/Plane-ExtendedHeavyOblique.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedHeavyOblique.woff2') format('woff2'), url('TTF/Plane-ExtendedHeavyOblique.ttf') format('truetype');
 }
 
 @font-face {
@@ -617,7 +617,7 @@
 	font-weight: 900;
 	font-stretch: normal;
 	font-style: italic;
-	src: url('WOFF2/Plane-HeavyItalic.WOFF2') format('woff2'), url('TTF/Plane-HeavyItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-HeavyItalic.woff2') format('woff2'), url('TTF/Plane-HeavyItalic.ttf') format('truetype');
 }
 
 @font-face {
@@ -626,5 +626,5 @@
 	font-weight: 900;
 	font-stretch: expanded;
 	font-style: italic;
-	src: url('WOFF2/Plane-ExtendedHeavyItalic.WOFF2') format('woff2'), url('TTF/Plane-ExtendedHeavyItalic.TTF') format('truetype');
+	src: url('WOFF2/Plane-ExtendedHeavyItalic.woff2') format('woff2'), url('TTF/Plane-ExtendedHeavyItalic.ttf') format('truetype');
 }
