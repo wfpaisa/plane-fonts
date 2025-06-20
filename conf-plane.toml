@@ -3,9 +3,13 @@ family = "Plane"
 spacing = "normal"
 serifs = "sans"
 noCvSs = true
-exportGlyphNames = true
+exportGlyphNames = false
 
 [buildPlans.Plane.variants.design]
+six = "closed-contour"
+seven = "bend-serifed"
+eight = "two-circles"
+nine = "closed-contour"
 capital-a = "curly-serifless"
 capital-k = "straight-serifless"
 capital-p = "open-serifless"
@@ -29,10 +33,6 @@ w = "straight-vertical-sides-serifless"
 x = "curly-serifless"
 y = "cursive-serifless"
 z = "cursive"
-six = "closed-contour"
-seven = "bend-serifed"
-eight = "two-circles"
-nine = "closed-contour"
 asterisk = "turn-hex-low"
 paren = "flat-arc"
 brace = "curly-flat-boundary"
@@ -41,5 +41,37 @@ dollar = "open"
 percent = "rings-continuous-slash"
 lig-ltgteq = "slanted"
 
-[buildPlans.Plane.ligations]
-inherits = "javascript"
+  [buildPlans.Plane.ligations]
+  inherits = "javascript"
+
+[buildPlans.Plane.weights.Regular]
+shape = 400
+menu = 400
+css = 400
+
+[buildPlans.Plane.weights.Bold]
+shape = 700
+menu = 700
+css = 700
+
+[buildPlans.Plane.weights.Light]
+shape = 300
+menu = 300
+css = 300
+
+[buildPlans.Plane.weights.Medium]
+shape = 500
+menu = 500
+css = 500
+
+[buildPlans.Plane.slopes.Upright]
+angle = 0
+shape = "upright"
+menu = "upright"
+css = "normal"
+
+[buildPlans.Plane.slopes.Italic]
+angle = 9.4
+shape = "italic"
+menu = "italic"
+css = "italic"
